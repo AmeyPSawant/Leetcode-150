@@ -28,6 +28,8 @@ class Solution:
 **Time**: O(n<sup>2</sup>)  
 **Space**: O(n)
 
+<hr/>
+
 ### Optimized
 
 ```
@@ -42,6 +44,8 @@ class Solution:
 
 **Time**: O(n log n)  
 **Space**: O(1) to O(log n)
+
+<hr/>
 
 ### Further Optimized
 
