@@ -2,7 +2,7 @@
 
 ## Links to Practice
 
-Neetcode - https://neetcode.io/problems/duplicate-integer  
+Neetcode - https://neetcode.io/problems/duplicate-integer <br/>
 Leetcode - https://leetcode.com/problems/contains-duplicate/
 
 ## Problem Statement
@@ -25,7 +25,7 @@ class Solution:
         return False
 ```
 
-**Time**: O(n<sup>2</sup>)  
+**Time**: O(n<sup>2</sup>) <br/>
 **Space**: O(n)
 
 <hr/>
@@ -42,7 +42,7 @@ class Solution:
         return False
 ```
 
-**Time**: O(n log n)  
+**Time**: O(n log n) <br/>
 **Space**: O(1) to O(log n)
 
 <hr/>
@@ -59,5 +59,5 @@ class Solution:
             return True
 ```
 
-**Time**: O(n)
+**Time**: O(n) <br/>
 **Space**: O(n)
