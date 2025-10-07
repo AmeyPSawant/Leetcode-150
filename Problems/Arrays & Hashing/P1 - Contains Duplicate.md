@@ -3,7 +3,7 @@
 ## Links to Practice
 
 Neetcode - https://neetcode.io/problems/duplicate-integer <br/>
-Leetcode - https://leetcode.com/problems/contains-duplicate/
+Leetcode - https://leetcode.com/problems/contains-duplicate
 
 ## Problem Statement
 

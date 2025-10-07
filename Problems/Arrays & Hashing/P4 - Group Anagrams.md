@@ -1,0 +1,49 @@
+# P4 - Group Anagrams
+
+## Links to Practice
+
+Neetcode - <br/>
+Leetcode -
+
+## Problem Statement
+
+<img src ="P-PS.png" height="500px"></img>
+
+## Solutions with Time and Space Complexities
+
+### Brute Force
+
+_A_
+
+```
+Solution goes here
+```
+
+**Time**: <br/>
+**Space**:
+
+<hr/>
+
+### Optimized
+
+_A_
+
+```
+Solution goes here
+```
+
+**Time**: <br/>
+**Space**:
+
+<hr/>
+
+### Further Optimized
+
+_A_
+
+```
+Solution goes here
+```
+
+**Time**: <br/>
+**Space**:

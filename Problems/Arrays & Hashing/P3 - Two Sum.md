@@ -3,7 +3,7 @@
 ## Links to Practice
 
 Neetcode - https://neetcode.io/problems/two-integer-sum <br/>
-Leetcode -
+Leetcode - https://leetcode.com/problems/two-sum
 
 ## Problem Statement
 
@@ -13,31 +13,38 @@ Leetcode -
 
 ### Brute Force
 
+_Checks every possible pair until it finds one that adds up to the target._
+
 ```
-Solution goes here
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for i in range(len(nums)):
+            for j in range(1, len(nums)):
+                if(i != j and nums[i]+nums[j] == target):
+                    return [i,j]
 ```
 
-**Time**: <br/>
-**Space**:
+**Time**: O(n<sup>2</sup>)<br/>
+**Space**: O(1)
 
 <hr/>
 
 ### Optimized
 
-```
-Solution goes here
-```
-
-**Time**: <br/>
-**Space**:
-
-<hr/>
-
-### Further Optimized
+_Uses a hash map to find complements in one pass, avoiding nested loops._
 
 ```
-Solution goes here
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        visited = {}
+
+        for i in range(len(nums)):
+            diff = target - nums[i]
+            if(diff in visited):
+                return sorted([i,visited[diff]])
+            else:
+                visited[nums[i]] = i
 ```
 
-**Time**: <br/>
-**Space**:
+**Time**: O(n)<br/>
+**Space**: O(n)
