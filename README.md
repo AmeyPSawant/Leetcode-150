@@ -1,4 +1,4 @@
-# Leetocde 150
+# Leetcode-150
 
 Saving all my solutions to the problems solved
 
