@@ -13,6 +13,8 @@ Leetcode - https://leetcode.com/problems/contains-duplicate
 
 ### Brute Force
 
+_Checks each number one by one for duplicates._
+
 ```
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
@@ -32,6 +34,8 @@ class Solution:
 
 ### Optimized
 
+_Sorts numbers and checks consecutive elements for duplicates._
+
 ```
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
@@ -48,6 +52,8 @@ class Solution:
 <hr/>
 
 ### Further Optimized
+
+_Uses a set to quickly see if any duplicates exist._
 
 ```
 class Solution:
