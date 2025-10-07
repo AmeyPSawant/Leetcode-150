@@ -63,7 +63,7 @@ def generate_problem_links():
 def update_main_readme(problem_links):
     """Update the main README.md file with the list of problem links."""
     with open(MAIN_README, "w", encoding="utf-8") as file:
-        file.write("# Leetocde 150\n\n")
+        file.write("# Leetcode-150\n\n")
         file.write("Saving all my solutions to the problems solved\n\n")
         file.write("\n".join(problem_links))
         file.write("\n")
