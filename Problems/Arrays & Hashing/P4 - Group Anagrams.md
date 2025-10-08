@@ -2,12 +2,12 @@
 
 ## Links to Practice
 
-Neetcode - <br/>
-Leetcode -
+Neetcode - https://neetcode.io/problems/anagram-groups <br/>
+Leetcode - https://leetcode.com/problems/group-anagrams
 
 ## Problem Statement
 
-<img src ="P-PS.png" height="500px"></img>
+<img src ="P4-PS.png" height="500px"></img>
 
 ## Solutions with Time and Space Complexities
 
