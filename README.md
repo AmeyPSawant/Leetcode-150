@@ -9,4 +9,5 @@ Saving all my solutions to the problems solved
    * [P4 - Group Anagrams](./Problems/Arrays%20%26%20Hashing/P4%20-%20Group%20Anagrams.md)
    * [P5 - Top K Frequent Elements](./Problems/Arrays%20%26%20Hashing/P5%20-%20Top%20K%20Frequent%20Elements.md)
    * [P6 - Encode and Decode Strings](./Problems/Arrays%20%26%20Hashing/P6%20-%20Encode%20and%20Decode%20Strings.md)
+   * [P7 - Products of Array Except Self](./Problems/Arrays%20%26%20Hashing/P7%20-%20Products%20of%20Array%20Except%20Self.md)
    * [P8 -Valid Sudoku](./Problems/Arrays%20%26%20Hashing/P8%20-Valid%20Sudoku.md)
